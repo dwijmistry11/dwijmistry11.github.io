@@ -1,3 +1,4 @@
+<!-- # EDUCATION -->
 | **EDUCATION** |
 | :-: |
 
