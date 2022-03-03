@@ -1,7 +1,5 @@
 
-| # **EDUCATION** |
-| :-: |
-
+# EDUCATION
  <br />
  <br />
 
