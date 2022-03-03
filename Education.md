@@ -1,5 +1,5 @@
-<!-- # EDUCATION -->
-| **EDUCATION** |
+
+| # **EDUCATION** |
 | :-: |
 
  <br />
