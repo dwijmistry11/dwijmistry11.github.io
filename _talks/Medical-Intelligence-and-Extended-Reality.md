@@ -16,3 +16,5 @@ Technological innovation has presented new and promising ways to improve medical
 **Theme:** Computer Vision and Image processing for Humanitarian Technology <br>
 **Date:** 11 – 12 November, 2022 <br>
 **Venue:** Marwadi University, Rajkot <br>
+
+<img src='images/NaSCoVIP 2022_v7-1.png'>
