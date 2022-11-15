@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-logo                     : "images/DWIJ LOGO.svg"
-title                    : "Dwij Mistry"
-title_separator          : "-"
+logo                     : "images/DWIJ LOGO.png"
+title                    : ""
+title_separator          : ""
 name                     : &name "Dwijkumar Mistry"
 description              : &description "Project Lead at 3D Surgical | Medical Imaging Software Developer |"
 url                      : https://dwijmistry.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
