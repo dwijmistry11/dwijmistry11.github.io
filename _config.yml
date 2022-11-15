@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-logo                     : "images/DWIJ LOGO.png"
+logo                     : "/images/DWIJ LOGO.png"
 title                    : ""
 title_separator          : ""
 name                     : &name "Dwijkumar Mistry"
